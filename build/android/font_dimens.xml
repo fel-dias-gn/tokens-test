@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Tue, 01 Jun 2021 23:48:52 GMT
+-->
+<resources>
+  <dimen name="size_font_huge">64.00sp</dimen>
+  <dimen name="size_font_7_xl">48.00sp</dimen>
+  <dimen name="size_font_6_xl">48.00sp</dimen>
+  <dimen name="size_font_5_xl">32.00sp</dimen>
+  <dimen name="size_font_4_xl_a">32.00sp</dimen>
+  <dimen name="size_font_3_xl">32.00sp</dimen>
+  <dimen name="size_font_2_xl_a">27.42sp</dimen>
+  <dimen name="size_font_xl_a">24.00sp</dimen>
+  <dimen name="size_font_l">20.58sp</dimen>
+  <dimen name="size_font_m">18.29sp</dimen>
+  <dimen name="size_font_base">16.00sp</dimen>
+  <dimen name="size_font_s">14.00sp</dimen>
+  <dimen name="size_font_xs">12.00sp</dimen>
+  
+</resources>

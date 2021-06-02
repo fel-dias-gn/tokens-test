@@ -1,0 +1,15 @@
+{
+  "name": "styledic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d-": "^1.0.0",
+    "style-dictionary": "^2.10.3"
+  }
+}
